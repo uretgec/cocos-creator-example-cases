@@ -4,3 +4,6 @@ My draft projects to learn how to create game with Cocos Creator
 # Draft Games
 - MathLand: Teribble ui math game
 - MathZilla: MatchThree based math game like a calculator ui
+
+# Thanks
+Cocos Creator
